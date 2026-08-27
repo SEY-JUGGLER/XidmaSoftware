@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Illustration réalisation Xidma Software">
+    <defs>
+        <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0">
+            <stop offset="0%" stop-color="#1589AA" />
+            <stop offset="100%" stop-color="#000000" />
+        </linearGradient>
+        <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+            <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1" />
+        </pattern>
+    </defs>
+    <rect width="800" height="600" fill="url(#bg)" />
+    <rect width="800" height="600" fill="url(#grid)" />
+    <circle cx="700" cy="500" r="180" fill="#FFFFFF" fill-opacity="0.06" />
+    <circle cx="90" cy="90" r="110" fill="#FFFFFF" fill-opacity="0.05" />
+    <polyline points="220,380 340,300 460,340 620,180" fill="none" stroke="#FFFFFF" stroke-opacity="0.95" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+    <circle cx="220" cy="380" r="12" fill="#FFFFFF" />
+    <circle cx="340" cy="300" r="12" fill="#FFFFFF" />
+    <circle cx="460" cy="340" r="12" fill="#FFFFFF" />
+    <circle cx="620" cy="180" r="12" fill="#FFFFFF" />
+</svg>
